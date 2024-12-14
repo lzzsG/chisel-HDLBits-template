@@ -4,7 +4,7 @@
 
 `chisel-HDLBits-template` 是一个模板项目，旨在帮助用户高效地使用 Chisel 语言完成 HDLBits 上的数字电路练习。项目提供了一套便捷的工具链和工作流，包括生成代码模板、清理多余前缀、记录练习历史等功能。
 
-部分模板内容来自**[chisel-template](https://github.com/chipsalliance/chisel-template)** **[chisel-playground](https://github.com/OSCPU/chisel-playground)**
+部分模板内容来自 [chisel-template](https://github.com/chipsalliance/chisel-template) [chisel-playground](https://github.com/OSCPU/chisel-playground)
 
 ------
 
